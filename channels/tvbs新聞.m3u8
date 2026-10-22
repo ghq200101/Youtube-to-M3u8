@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: TVBS新聞
+# ID: UC5nwNW4KdC0SzrhF9BXEYOQ
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 10:10 UTC)
+# Generated: 2026-10-22 10:10:36 UTC
+# URL expires: ~15:10 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UC5nwNW4KdC0SzrhF9BXEYOQ" tvg-logo="logos/UC5nwNW4KdC0SzrhF9BXEYOQ.jpg" tvg-name="TVBS新聞" group-title="Individual",TVBS新聞 [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792685430/ei/FuHZarjQKf-LsfIPqLmi-QQ/ip/2a09:bac5:6214:1232::1d0:e3/id/idnAtPV2X2c.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr16---sn-2on4v5-5j.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AWzQHwowgxd-uQOR5Ek5lRB3fxTOJRRIsa7v62u0qE3mTF4TQxct_0Q_ZEoFxWMtACBc-5m1hwVqNwx6/spc/mpRQ_xGGZyQtLOAT2wXqpU_ythu5z4yyQbXfb7mueoh8jo3FG_-VNuUL9_fvBGK9/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1314500/met/1792663831,/mh/od/mm/44/mn/sn-2on4v5-5j/ms/lva/mv/m/mvi/16/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1792663493/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgPBCS7HJXqN91jy6oiy1Kp1oZPnK523JvvT38CQQt9yUCIQCNHxQF90v_j2fvkCv9sOLBbIFSn54FqqXZem9Iy-02LA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANz72djqLm8sfD-L8AouO-KBp9U0HW3pcv7gmjEmlnLyAiArM0EpNvTd68KJ7_kSPduQ_eCYtAeVudJMMI0msrd0aw%3D%3D/playlist/index.m3u8

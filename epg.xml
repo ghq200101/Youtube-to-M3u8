@@ -1,2 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261022085802 "/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20261022101036 ">
+  <channel id="UCR3asjvr_WAaxwJYEDV_Bfw">
+    <display-name>東森新聞</display-name>
+    <icon src="logos/UCR3asjvr_WAaxwJYEDV_Bfw.jpg"/>
+  </channel>
+  <programme start="20261022101036 +0000" stop="20261022111036 +0000" channel="UCR3asjvr_WAaxwJYEDV_Bfw">
+    <title>🔴1022【Live】1740-2000東森晚安新聞／薔琵接近中！氣象署17:30陸警範圍將擴全台／薔琵逼近18縣市達停班課標準！西半部市區嚴防8-10級強陣風／今外圍環流影響 雙北山區.宜蘭注意大雨 2026-10-22 10:10</title>
+    <desc>Live YouTube stream from 東森新聞</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UC5nwNW4KdC0SzrhF9BXEYOQ">
+    <display-name>TVBS新聞</display-name>
+    <icon src="logos/UC5nwNW4KdC0SzrhF9BXEYOQ.jpg"/>
+  </channel>
+  <programme start="20261022101036 +0000" stop="20261022111036 +0000" channel="UC5nwNW4KdC0SzrhF9BXEYOQ">
+    <title>🔴10/22【LIVE】TVBS NEWS晚間整點新聞 重點直播 Taiwan News  20261022 2026-10-22 10:10</title>
+    <desc>Live YouTube stream from TVBS新聞</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UC2TuODJhC03pLgd6MpWP0iw">
+    <display-name>SET Live News</display-name>
+    <icon src="logos/UC2TuODJhC03pLgd6MpWP0iw.jpg"/>
+  </channel>
+  <programme start="20261022101036 +0000" stop="20261022111036 +0000" channel="UC2TuODJhC03pLgd6MpWP0iw">
+    <title>🔴LIVE 三立新聞 CH54頻道｜薔琵暴風圈估這時觸陸！警戒範圍「恐擴至全台」　不排除登陸機率｜Taiwan SET News 24h Live｜@setnews-ch54​ 2026-10-22 10:10</title>
+    <desc>Live YouTube stream from SET Live News</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UC8ROUUjHzEQm-ndb69CX8Ww">
+    <display-name>台視新聞</display-name>
+    <icon src="logos/UC8ROUUjHzEQm-ndb69CX8Ww.jpg"/>
+  </channel>
+  <programme start="20261022101036 +0000" stop="20261022111036 +0000" channel="UC8ROUUjHzEQm-ndb69CX8Ww">
+    <title>【完整公開】LIVE 沈伯洋 公共空間再定義記者會</title>
+    <desc>Live YouTube stream from 台視新聞</desc>
+    <category>Live</category>
+  </programme>
+</tv>
