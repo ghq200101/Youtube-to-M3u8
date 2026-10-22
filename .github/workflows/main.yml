@@ -51,10 +51,10 @@ jobs:
 
       - name: Create cookies file
         env:
-          COOKIES: ${{ secrets.COOKIES_TXT }}
+          COOKIES: ${{ secrets.YT_COOKIES_TXT }}
         run: |
           if [ -z "$COOKIES" ]; then
-            echo "COOKIES_TXT secret missing"
+            echo "YT_COOKIES_TXT secret missing"
             exit 1
           fi
           echo "$COOKIES" > cookies.txt
