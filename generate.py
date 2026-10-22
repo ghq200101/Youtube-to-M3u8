@@ -11,6 +11,9 @@ from xml.etree import ElementTree as ET
 from xml.dom import minidom
 
 # ============= CONFIGURATION =============
+REPOSITORY_URL = "https://github.com/ghq200101/Youtube-to-M3u8"
+PAGES_URL = "https://ghq200101.github.io/Youtube-to-M3u8"
+
 QUALITY_PROFILES = {
     'hd': {'min_height': 1080, 'suffix': '[HD]', 'priority': [1080]},
     'mobile': {'max_height': 480, 'suffix': '[Mobile]', 'priority': [480, 360]},
@@ -566,7 +569,7 @@ class YouTubePlaylistGenerator:
         <div class="footer">
             <p>🔄 Refreshes every 6 hours • URLs expire ~6 hours</p>
             <p>⏰ Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}</p>
-            <p>🔗 <a href="https://github.com/uticap/Youtube-to-M3u8">GitHub Repository</a></p>
+            <p>🔗 <a href="{REPOSITORY_URL}">GitHub Repository</a></p>
         </div>
     </div>
 </body>
@@ -633,7 +636,7 @@ class YouTubePlaylistGenerator:
             "#EXT-X-VERSION:3",
             f"# Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}",
             f"# Total channels: {len(all_channels)}",
-            f"# Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/",
+            f"# Individual channels: {PAGES_URL}/channels/",
             ""
         ]
         
@@ -747,7 +750,7 @@ class YouTubePlaylistGenerator:
             f"# Quality: {stats['qualities']['1080p']}x1080p, {stats['qualities']['720p']}x720p, {stats['qualities']['480p']}x480p",
             f"# Categories: {', '.join([f'{k}:{v}' for k, v in stats['by_category'].items()])}",
             f"# Countries: {', '.join([f'{k}:{v}' for k, v in stats['by_country'].items()])}",
-            f"# Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/",
+            f"# Individual channels: {PAGES_URL}/channels/",
             f"# Updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}"
         ]
         
@@ -790,24 +793,24 @@ def main():
     
     channels_data = []
     for i, line in enumerate(lines, 1):
-     if "|" in line:
-        custom_name, url = line.split("|", 1)
-        custom_name = custom_name.strip()
-        url = url.strip()
-     else:
-        custom_name = None
-        url = line.strip()
- 
-     print(f"\n📺 [{i}/{len(lines)}] Processing: {url}")
+        if "|" in line:
+            custom_name, url = line.split("|", 1)
+            custom_name = custom_name.strip()
+            url = url.strip()
+        else:
+            custom_name = None
+            url = line.strip()
 
-     channel_info = generator.get_stream_info(url)
+        print(f"\n📺 [{i}/{len(lines)}] Processing: {url}")
 
-     if channel_info and custom_name:
-        channel_info["name"] = custom_name
+        channel_info = generator.get_stream_info(url)
 
-     if channel_info:
-        channels_data.append(channel_info)
-            
+        if channel_info and custom_name:
+            channel_info["name"] = custom_name
+
+        if channel_info:
+            channels_data.append(channel_info)
+
             if channel_info['status'] == 'live':
                 streams = list(channel_info.get('streams', {}).keys())
                 country = channel_info.get('country', 'Unknown')
@@ -850,7 +853,7 @@ def main():
     print("   - stats.json (Detailed statistics)")
     print(f"   - channels/ (Individual channel files - {len(individual_channels)} files)")
     print(f"\n🌐 Individual Channels URL:")
-    print(f"   https://uticap.github.io/Youtube-to-M3u8/channels/")
+    print(f"   {PAGES_URL}/channels/")
     print(f"{'='*50}")
 
 if __name__ == "__main__":

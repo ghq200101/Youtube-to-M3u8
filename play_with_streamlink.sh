@@ -1,7 +1,7 @@
 #!/bin/bash
 # Streamlink Player for Nigeria News
 
-PLAYLIST="https://raw.githubusercontent.com/uticap/Youtube-to-M3u8/main/streams.m3u8"
+PLAYLIST="https://raw.githubusercontent.com/ghq200101/Youtube-to-M3u8/main/streams.m3u8"
 QUALITY="${1:-best}"
 
 echo "📺 Nigeria News Streams"
