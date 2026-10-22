@@ -31,7 +31,8 @@ jobs:
 
       - name: Setup Python & dependencies
         run: |
-          pip install --upgrade pip yt-dlp requests
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade yt-dlp
           echo "yt-dlp: $(yt-dlp --version)"
 
       - name: Setup Cloudflare WARP
