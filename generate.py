@@ -789,13 +789,24 @@ def main():
     generator = YouTubePlaylistGenerator()
     
     channels_data = []
-    for i, url in enumerate(lines, 1):
-        print(f"\n📺 [{i}/{len(lines)}] Processing: {url}")
-        time.sleep(random.uniform(2, 5))
-        
-        channel_info = generator.get_stream_info(url)
-        if channel_info:
-            channels_data.append(channel_info)
+    for i, line in enumerate(lines, 1):
+     if "|" in line:
+        custom_name, url = line.split("|", 1)
+        custom_name = custom_name.strip()
+        url = url.strip()
+     else:
+        custom_name = None
+        url = line.strip()
+ 
+     print(f"\n📺 [{i}/{len(lines)}] Processing: {url}")
+
+     channel_info = generator.get_stream_info(url)
+
+     if channel_info and custom_name:
+        channel_info["name"] = custom_name
+
+     if channel_info:
+        channels_data.append(channel_info)
             
             if channel_info['status'] == 'live':
                 streams = list(channel_info.get('streams', {}).keys())
