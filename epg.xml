@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261022113440 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261022145038 ">
   <channel id="UCR3asjvr_WAaxwJYEDV_Bfw">
     <display-name>東森新聞</display-name>
     <icon src="logos/UCR3asjvr_WAaxwJYEDV_Bfw.jpg"/>
   </channel>
-  <programme start="20261022113440 +0000" stop="20261022123440 +0000" channel="UCR3asjvr_WAaxwJYEDV_Bfw">
-    <title>🔴1022【Live】1740-2000東森晚安新聞／薔琵接近中！氣象署17:30陸警範圍將擴全台／薔琵逼近18縣市達停班課標準！西半部市區嚴防8-10級強陣風／今外圍環流影響 雙北山區.宜蘭注意大雨 2026-10-22 11:34</title>
+  <programme start="20261022145038 +0000" stop="20261022155038 +0000" channel="UCR3asjvr_WAaxwJYEDV_Bfw">
+    <title>🔴不斷更新／全台22縣市都宣布了！薔琵不排除登陸 雨彈開轟10縣市發豪雨特報／薔琵呈6字形擺盪滯留拉長風雨 暴風圈估明上午籠罩全台／北市晚間6點起疏散門「只出不進」 晚間10點拖離車輛 2026-10-22 14:50</title>
     <desc>Live YouTube stream from 東森新聞</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>TVBS新聞</display-name>
     <icon src="logos/UC5nwNW4KdC0SzrhF9BXEYOQ.jpg"/>
   </channel>
-  <programme start="20261022113440 +0000" stop="20261022123440 +0000" channel="UC5nwNW4KdC0SzrhF9BXEYOQ">
-    <title>🔴10/22【LIVE】TVBS NEWS晚間整點新聞 重點直播 Taiwan News  20261022 2026-10-22 11:34</title>
+  <programme start="20261022145038 +0000" stop="20261022155038 +0000" channel="UC5nwNW4KdC0SzrhF9BXEYOQ">
+    <title>【LIVE】薔琵颱風威脅 各地鏡頭君直擊風雨 2026-10-22 14:50</title>
     <desc>Live YouTube stream from TVBS新聞</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>SET Live News</display-name>
     <icon src="logos/UC2TuODJhC03pLgd6MpWP0iw.jpg"/>
   </channel>
-  <programme start="20261022113440 +0000" stop="20261022123440 +0000" channel="UC2TuODJhC03pLgd6MpWP0iw">
-    <title>🔴LIVE 三立新聞 CH54頻道｜薔琵暴風圈估這時觸陸！警戒範圍「恐擴至全台」　不排除登陸機率｜Taiwan SET News 24h Live｜@setnews-ch54​ 2026-10-22 11:34</title>
+  <programme start="20261022145038 +0000" stop="20261022155038 +0000" channel="UC2TuODJhC03pLgd6MpWP0iw">
+    <title>🔴LIVE 三立新聞 CH54頻道｜薔琵暴風圈警戒範圍「恐擴至全台」北北基桃停班停課 全台19縣市放颱風假 金門上班上課｜Taiwan SET News 24h Live｜@setnews-ch54​ 2026-10-22 14:50</title>
     <desc>Live YouTube stream from SET Live News</desc>
     <category>Live</category>
   </programme>
@@ -31,7 +31,7 @@
     <display-name>台視新聞</display-name>
     <icon src="logos/UC8ROUUjHzEQm-ndb69CX8Ww.jpg"/>
   </channel>
-  <programme start="20261022113440 +0000" stop="20261022123440 +0000" channel="UC8ROUUjHzEQm-ndb69CX8Ww">
+  <programme start="20261022145038 +0000" stop="20261022155038 +0000" channel="UC8ROUUjHzEQm-ndb69CX8Ww">
     <title>【完整公開】LIVE 沈伯洋 公共空間再定義記者會</title>
     <desc>Live YouTube stream from 台視新聞</desc>
     <category>Live</category>
