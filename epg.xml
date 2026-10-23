@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261023185133 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261023225132 ">
   <channel id="UCR3asjvr_WAaxwJYEDV_Bfw">
     <display-name>東森新聞</display-name>
     <icon src="logos/UCR3asjvr_WAaxwJYEDV_Bfw.jpg"/>
   </channel>
-  <programme start="20261023185133 +0000" stop="20261023195133 +0000" channel="UCR3asjvr_WAaxwJYEDV_Bfw">
-    <title>🔴不斷更新／薔琵路徑更往西偏！恐創57年最晚登陸首颱／薔琵眼牆碰東北角貼台灣打轉！致災性強風來襲／薔琵龜速繞圈飆17級強風　氣象署：待室內 2026-10-23 18:51</title>
+  <programme start="20261023225132 +0000" stop="20261023235132 +0000" channel="UCR3asjvr_WAaxwJYEDV_Bfw">
+    <title>🔴不斷更新／薔琵北轉漸離中！今下半天暴風圈脫離本島／薔琵未登陸！中心01：00掠過南方澳1公里外海／薔琵核心區夜襲北台灣！北北基宜颳強風豪雨 2026-10-23 22:51</title>
     <desc>Live YouTube stream from 東森新聞</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>TVBS新聞</display-name>
     <icon src="logos/UC5nwNW4KdC0SzrhF9BXEYOQ.jpg"/>
   </channel>
-  <programme start="20261023185133 +0000" stop="20261023195133 +0000" channel="UC5nwNW4KdC0SzrhF9BXEYOQ">
-    <title>【LIVE】薔琵颱風威脅 各地鏡頭君直擊風雨 2026-10-23 18:51</title>
+  <programme start="20261023225132 +0000" stop="20261023235132 +0000" channel="UC5nwNW4KdC0SzrhF9BXEYOQ">
+    <title>週六上半天各地風強雨大 午後颱漸遠估入夜解除陸警 ｜LIVE 2026-10-23 22:51</title>
     <desc>Live YouTube stream from TVBS新聞</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>SET Live News</display-name>
     <icon src="logos/UC2TuODJhC03pLgd6MpWP0iw.jpg"/>
   </channel>
-  <programme start="20261023185133 +0000" stop="20261023195133 +0000" channel="UC2TuODJhC03pLgd6MpWP0iw">
-    <title>🔴LIVE 三立新聞 CH54頻道｜薔琵颱風持續影響 明天停班停課最新動態.北北基桃停班課、中部雲林以北停班課、南部正常｜Taiwan SET News 24h Live｜@setnews-ch54​ 2026-10-23 18:51</title>
+  <programme start="20261023225132 +0000" stop="20261023235132 +0000" channel="UC2TuODJhC03pLgd6MpWP0iw">
+    <title>🔴LIVE 三立新聞 CH54頻道｜薔琵颱風持續影響 明天停班停課最新動態.北北基桃停班課、中部雲林以北停班課、南部正常｜Taiwan SET News 24h Live｜@setnews-ch54​ 2026-10-23 22:51</title>
     <desc>Live YouTube stream from SET Live News</desc>
     <category>Live</category>
   </programme>
@@ -31,7 +31,7 @@
     <display-name>台視新聞</display-name>
     <icon src="logos/UC8ROUUjHzEQm-ndb69CX8Ww.jpg"/>
   </channel>
-  <programme start="20261023185133 +0000" stop="20261023195133 +0000" channel="UC8ROUUjHzEQm-ndb69CX8Ww">
+  <programme start="20261023225132 +0000" stop="20261023235132 +0000" channel="UC8ROUUjHzEQm-ndb69CX8Ww">
     <title>【完整公開】LIVE 沈伯洋 公共空間再定義記者會</title>
     <desc>Live YouTube stream from 台視新聞</desc>
     <category>Live</category>
