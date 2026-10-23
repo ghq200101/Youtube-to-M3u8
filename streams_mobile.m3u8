@@ -1,13 +1,25 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Generated: 2026-10-23 03:04:53 UTC
-# Total channels: 0
+# Generated: 2026-10-23 18:51:33 UTC
+# Total channels: 4
 # Individual channels: https://ghq200101.github.io/Youtube-to-M3u8/channels/
 
+#EXTINF:-1 tvg-id="UCR3asjvr_WAaxwJYEDV_Bfw" tvg-logo="logos/UCR3asjvr_WAaxwJYEDV_Bfw.jpg" tvg-name="東森新聞" group-title="General",東森新聞 [Mobile]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792803084/ei/rKzbatySMe7oybgPwpimwAI/ip/2a09:bac1:76a0:c8::4f9:30/id/zDOPWpebwu8.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr8---sn-ajab55-5c.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AWzQHwrU-fT1UtFH6xTMr1l6MhZUJxrJhZbikFI0wzD1EC0sTbD0D8WWG6Hpn9SZRSD2aPKxvJHNf8z1/spc/mpRQ_y2Q6aQOPen4CeBCaFHx3Yfltcfw6EFZEyC25CdDvAMt1ZIZpXIfseE5kJav/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4375625/met/1792781485,/mh/pb/mm/44/mn/sn-ajab55-5c/ms/lva/mv/m/mvi/8/pl/53/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1792781121/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgaRofzclKrzG_fVV7idkLB2v6vs9s-0ZIRfMLh2FIcPoCIQCeDjuEtoTDDhyGtZjVuH3g6l-B8XONoRr8x-D1HHiT4g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgUNio_CEsIffeh63sJe5OUMjE_jFJvFTuSLYwosJt43ECIBsaVFEwRnlOWvWRHAhXBTPVxdF65jXqb5fmAwT6n9tQ/playlist/index.m3u8
 
-# Summary: 0/0 streams active
-# Quality: 0x1080p, 0x720p, 0x480p
-# Categories: 
-# Countries: 
+#EXTINF:-1 tvg-id="UC5nwNW4KdC0SzrhF9BXEYOQ" tvg-logo="logos/UC5nwNW4KdC0SzrhF9BXEYOQ.jpg" tvg-name="TVBS新聞" group-title="General",TVBS新聞 [Mobile]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792803087/ei/r6zbaoCeNqqElu8PxIbUwQo/ip/2a09:bac1:76a0:c8::4f9:30/id/XC_DfQqkzY8.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr8---sn-ajab55-5c.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AWzQHwrJ73NWeW6MvaRIOoojN3ODWBmIErvHKTnnkSgL5zED9wt35dYXWRD6TNSwV0N_GsvclhmFUEDP/spc/mpRQ_4-q9PolbFeq4Yj0CkhBEVqd3BmP9gKbeq-dpkKzMZAgkZsiXThsL1aEevxX/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4375625/met/1792781488,/mh/33/mm/44/mn/sn-ajab55-5c/ms/lva/mv/m/mvi/8/pl/53/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565116,52184237,52240176/mt/1792781121/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAOF44hjXYy0F9wjlFpjRq-kYc14vlf2NEAzMx6Msdb5kAiEAnksJLmXAXhd-kobw9bGQQTECxdcAbR_1YeEXbit25eA%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgb7tYMCER2ogKOTQdYRK4XHTuy01X55bWkDXc7X9FrOACIGHf0BNEZgqAhDJaTWxUyCoMNbM5FAcPE4Zc2NLiUkFQ/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="UC2TuODJhC03pLgd6MpWP0iw" tvg-logo="logos/UC2TuODJhC03pLgd6MpWP0iw.jpg" tvg-name="SET Live News" group-title="News",SET Live News [Mobile]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792803090/ei/sqzbauXbNsDfybgPoZn6oAE/ip/2a09:bac1:76a0:c8::4f9:30/id/yeYC0mbSIOo.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr1---sn-ajab55-5c.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AWzQHwr29_HkHgFscGxmGGAVNV6RMJ8RCLnAQVq7rVXUao-B3jGxJFKhU-hSsG0txFBQK4BQXFLEzO24/spc/mpRQ_0T33CBDs9la-kGVQH7QYplLwJGPUq51l0WLTVDlYVuw34sY3sLHRYj1-JbI/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4375625/met/1792781491,/mh/ge/mm/44/mn/sn-ajab55-5c/ms/lva/mv/m/mvi/1/pl/53/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52271470/mt/1792781121/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhALM7m2J4OK_YtLbvptlpqs_3z_8C9AGcdLMwn67PLT3WAiEAiuq1yv2XlQ8RgTtxpDxXjg3SumY7fssw6k6m8PlBkYM%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgRNi2J42fVpYOJ2ANZ2ijDxYZFE_29xIe3VVhchyU0n4CIA7szDjM7Vo9ijSNHc0WRZb6oZ8IlNNPIUzjKkrGkaS6/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="UC8ROUUjHzEQm-ndb69CX8Ww" tvg-logo="logos/UC8ROUUjHzEQm-ndb69CX8Ww.jpg" tvg-name="台視新聞" group-title="General",台視新聞 [Mobile]
+https://rr1---sn-ab5l6nry.googlevideo.com/videoplayback?expire=1792803093&ei=tazbavqUGuOFlu8Pj9bg2AM&ip=2a09%3Abac1%3A76a0%3Ac8%3A%3A4f9%3A30&id=o-AJZ_rDNl-03ZLeJ8J9zPdh7mOIDv7yK5HZPGOw14-GsY&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=304&met=1792781493%2C&mh=Ji&mm=31%2C26&mn=sn-ab5l6nry%2Csn-qjp5q5-5c&ms=au%2Conr&mv=m&mvi=1&pl=53&rms=au%2Cau&initcwndbps=4914250&bui=AWzQHwqN_DEH4xbv8r25-3GxQK5zRVGV85u6Mg7q-s5d0i5niZAc6jUPGYxCBotnW_Ampm3A8rJhKCRK&spc=mpRQ_z38jDhfuP5IZm27VyGN1lkvuM4NwjFTmouOLij4fMcUpuM0HLbdRf7jzMIdVgw&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=497936995&ratebypass=yes&dur=7095.066&lmt=1792693597622675&mt=1792780463&fvip=5&fexp=51565115&c=ANDROID&txp=3308224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgLrtWuGWLB1Y5EkJVxRoN1uaqjNM7O5cUqaNprRMC-uoCIHamT3kNwI1E_wPNiuMzbOJhEXvvaDDaFVsBcQyTSggU&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMymB-pGjCwLdw82uxKTR771mmG0EArTEFp95kbr6oJyAiEAgvEJnVciaMFigsz839FpRduIJBqbeive5Mu2XfR8T3Y%3D
+
+
+# Summary: 4/4 streams active
+# Quality: 3x1080p, 0x720p, 0x480p
+# Categories: General:3, News:1
+# Countries: UK:4
 # Individual channels: https://ghq200101.github.io/Youtube-to-M3u8/channels/
-# Updated: 2026-10-23 03:04:53 UTC
+# Updated: 2026-10-23 18:51:33 UTC
